@@ -1,6 +1,9 @@
 # Money-moving monorepo (external repo)
 money-moving/
 
+# Claude Code configuration
+.claude/
+
 # IDE
 .vscode/
 .idea/
